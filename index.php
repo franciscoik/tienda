@@ -9,5 +9,7 @@
 <body>
 	<?php echo "hola" ?>
 	<h1>hola</h1>
+</br>
+<p>hajaj</p>
 </body>
 </html>
