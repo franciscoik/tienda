@@ -11,5 +11,9 @@
 	<h1>hola</h1>
 </br>
 <p>hajaj</p>
+
 </body>
+<script>
+	alert("hola mundo");
+</script>
 </html>
